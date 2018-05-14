@@ -1,0 +1,19 @@
+{
+    "name": "erratbi/demo",
+    "description": "demo",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Erratbi",
+            "email": "yerratbi@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "erratbi\\demo\\": "src"
+        }
+    }
+}
